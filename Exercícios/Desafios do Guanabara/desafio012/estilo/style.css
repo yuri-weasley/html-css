@@ -27,8 +27,8 @@ header{
 }
 header > h1 {
     padding-top: 50px;
-    font-variant: small-caps;
-    font-size: 10vw;
+    font-variant: small-caps; /* Para deixar as letras maiúsculas*/
+    font-size: 8vw;
 }
 header > p {
     padding-bottom: 50px;
@@ -47,7 +47,7 @@ section {
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 3.5vw;
+    font-size: 2.5vw;
 }
 section > p {
     padding-bottom: 2em;
